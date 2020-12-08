@@ -1,0 +1,90 @@
+body{
+  background-image: url(mentorback.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card{
+  /*margin: auto;*/
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 650px;
+  border-radius: 25px;
+  /*margin: 0 auto;*/
+  box-shadow: 6px 6px 20px #52504F; /*#8B8A89; /*rgba(0, 0, 0, 0.2;*/
+    opacity: 0.9;
+}
+
+#submit{
+  background: green;   /*#199EB8;*/
+  border: 1px solid green;   /*#199EB8;*/
+  padding: 10px 24px;
+  color: #fff;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+  border-radius: 25px;
+}
+
+#submit:hover{
+  background: transparent;
+  color: green;    /* #199EB8;                          /*#23c2e1;*/
+  border: 1px solid green;   /* #199EB8;*/
+}
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 20px;
+  background: green;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  padding: 10px;
+  border-radius: 0 25px 25px 0;
+/* border: none;
+  border-bottom: 1.5px solid #ccc;*/
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid green;
+}
+
+#yr{
+  width: 100%;
+}
+
+.fa-eye-slash{
+  padding: 20px;
+}
+.fa-eye{
+  padding: 20px;
+}
+
+.fa:hover {
+  color: green;
+}
+
+#eyev{
+  display: none;
+  color: green;
+}
+#eyev1{
+  display: none;
+  color: green;
+}
+
+.row{
+  margin-left: 100px;
+  margin-top: 150px;
+}
