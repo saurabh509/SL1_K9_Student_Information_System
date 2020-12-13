@@ -8,3 +8,9 @@ Steps to run: <br>
 3.After the Xampp installation, paste the whole project folder in Xampp/htdocs. <br>
 4.Now start the apache, mysql servers. <br>
 5.Navigate to http://localhost/Sl1/miniprojhome.php <br>
+
+Group details:<br>
+1.33107_Saurabh <br>
+2.33109_Prince <br>
+3.33112_Yash <br>
+4.33115_Omkar <br>
